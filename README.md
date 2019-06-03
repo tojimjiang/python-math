@@ -3,7 +3,7 @@
 
 ### In this repository:  
 dot_display.py - utility module for math_drill.py  
-large_prime.py - find the largest prime nievely  
+large_prime.py - find the largest prime naively  
 math_drill.py - math drills program with statistics  
 sieve.py - use sieve of eratosthenes to quickly find primes  
 triange_side.py - given coordinates determine if the points form a valid triangle  
